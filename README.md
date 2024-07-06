@@ -1,5 +1,5 @@
 <strong>Título del Proyecto:</strong> <br/>
-appSalon_MVC_PHP<br/>
+App Salon<br/>
 <br/>
 <strong>Tipo de Proyecto:</strong><br/>
 Académico<br/>
